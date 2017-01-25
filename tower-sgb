@@ -1,0 +1,5 @@
+a 10  // for all plots, transition of 10 minutes
+10 00 030 050 040 // at 1000, the warm=30%, neutral=50%, blue=40%
+10 30 000 000 000 // at 1030, all off
+18 00 060 000 000 // at 1800, the warm goes to 60%, neutral to 50%, blue to 40%
+18 30 100 100 100 // at 1830, all on
